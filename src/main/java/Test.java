@@ -9,5 +9,6 @@ public class Test {
         System.out.println("master");
         System.out.println("123");
         System.out.println("github");
+        System.out.println("push-Test");
     }
 }
